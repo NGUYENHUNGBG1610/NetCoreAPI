@@ -1,0 +1,55 @@
+<img src="snowtops.jpg" class="w3-circle" alt="Alps">
+
+<img src="snowtops.jpg" class="w3-border w3-padding" alt="Alps">
+
+<div class="w3-card-4">
+  <img src="img_avatar.png" alt="Person">
+</div>
+
+<div class="w3-display-container">
+  <img src="img_lights.jpg" alt="Lights">
+  <div class="w3-display-topleft w3-container">Top Left</div>
+  <div class="w3-display-topright w3-container">Top Right</div>
+  <div class="w3-display-bottomleft w3-container">Bottom Left</div>
+  <div class="w3-display-bottomright w3-container">Bottom Right</div>
+  <div class="w3-display-left w3-container">Left</div>
+  <div class="w3-display-right w3-container">Right</div>
+  <div class="w3-display-middle w3-large">Middle</div>
+  <div class="w3-display-topmiddle w3-container">Top Middle</div>
+  <div class="w3-display-bottommiddle w3-container">Bottom Middle</div>
+</div>
+
+<img src="img_lights.jpg" alt="Lights" class="w3-image">
+
+<img src="img_lights.jpg" alt="Lights" style="width:100%">
+
+<img src="img_lights.jpg" alt="Lights" style="width:100%;max-width:400px">
+
+<img src="img_forest.jpg" alt="Forest" class="w3-opacity-min">
+<img src="img_forest.jpg" alt="Forest" class="w3-opacity">
+<img src="img_forest.jpg" alt="Forest" class="w3-opacity-max">
+
+<img src="image.jpg" alt="Table" class="w3-grayscale-min">
+<img src="image.jpg" alt="Table" class="w3-grayscale">
+<img src="image.jpg" alt="Table" class="w3-grayscale-max">
+
+<img src="image.jpg" alt="Table" class="w3-sepia-min">
+<img src="image.jpg" alt="Table" class="w3-sepia">
+<img src="image.jpg" alt="Table" class="w3-sepia-max">
+
+<img src="image.jpg" alt="Einstein" class="w3-hover-opacity">
+<img src="image.jpg" alt="Einstein" class="w3-hover-grayscale">
+<img src="image.jpg" alt="Einstein" class="w3-hover-sepia">
+
+<img src="snowtops.jpg" class="w3-hover-opacity" alt="Alps">
+<img src="snowtops.jpg" class="w3-opacity w3-hover-opacity-off" alt="Alps">
+
+<div class="w3-third">
+  <div class="w3-card">
+    <img src="img_monterosso.jpg" style="width:100%">
+    <div class="w3-container">
+      <h4>Monterosso</h4>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,18 @@
+<div class="w3-round w3-teal">w3-round</div>
+
+<img class="w3-circle" src="img_car.jpg" alt="Car">
+
+<div class="w3-padding-32 w3-red w3-circle w3-center">
+  <h1>The w3-circle Class</h1>
+</div>
+
+<div class="w3-padding-32 w3-green w3-circle">
+  <img src="img_car.jpg" class="w3-circle" style="width:75%">
+</div>
+
+<div class="w3-padding-32 w3-green w3-circle">
+  <div class="w3-padding-32 w3-red w3-circle w3-center" style="width:55%">
+    <p class="w3-xlarge">Hello<br>W3.CSS!</p>
+  </div>
+</div>
+
